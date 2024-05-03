@@ -10,7 +10,7 @@
 <h3 align="center">Projeto de Vida - Turma DT</h3>
 
   <p align="center">
-    Projeto construído no Grupo de Formadores Trilha de Programação II | 1ª Jornada de 2024
+    Projeto construído na Trilha de Programação 
     <br />
     <a href="https://github.com/kheronn"><strong>Prof. Formador Kheronn Khennedy Machado</strong></a>
     <br />
